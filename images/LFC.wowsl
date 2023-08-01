@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>2.9</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>false</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>LFC</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>basic_linear</ImageEffect>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files/WOW Slider/templates/backgnd/elemental/</ImageTemplate>
+            <ImageTemplateName>Elemental</ImageTemplateName>
+            <ImageWidth>960</ImageWidth>
+            <Images>true</Images>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/SUCCESS TECHNOLOGIES/Documents/WOW Slider/index.html</PublishFileName>
+            <PublishIndex>index.html</PublishIndex>
+            <PublishPath>C:/Users/SUCCESS TECHNOLOGIES/Documents/WOW Slider</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>69</SlideshowDelay>
+            <SlideshowDuration>49</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateName>elemental</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>top</TooltipPos>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/SUCCESS TECHNOLOGIES/Desktop/glory.jpg</url>
+                <title>glory</title>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/LFC Ugwuagba/images/p2.png</url>
+                <title>p2</title>
+            </Image>
+            <Image>
+                <url>C:/Users/SUCCESS TECHNOLOGIES/Desktop/communion.jpg</url>
+                <title>communion</title>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/LFC Ugwuagba/images/p1.png</url>
+                <title>p1</title>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/LFC Ugwuagba/images/P4.png</url>
+                <title>P4</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
